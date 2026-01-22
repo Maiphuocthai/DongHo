@@ -1,0 +1,7 @@
+# Altium Designer folders
+History/
+Project\ Outputs*/
+__Backup/
+*.Logs
+*.SchDoc.Zip
+*.PcbDoc.Zip
