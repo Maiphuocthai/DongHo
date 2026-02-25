@@ -1,0 +1,123 @@
+Added Component: Designator=H?(XH2.54M-5)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001298"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 5P XH2.54-5P Ð?c Th?ng"; VariantName = "[No Variations]"
+Added Component: Designator=IC1(SOP 28)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = "SOP28"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "AIP1628"; VariantName = "[No Variations]"
+Added Component: Designator=L1(LED 7 THANG 1)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH009706"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Led 7 0.28 1 S? Anot Sáng Ð?"; VariantName = "[No Variations]"
+Added Component: Designator=L2(LED 7 THANG 1)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH009706"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Led 7 0.28 1 S? Anot Sáng Ð?"; VariantName = "[No Variations]"
+Added Component: Designator=L3(LED 7 THANG 1)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH009706"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Led 7 0.28 1 S? Anot Sáng Ð?"; VariantName = "[No Variations]"
+Added Component: Designator=L4(LED 7 THANG 1)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH009706"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Led 7 0.28 1 S? Anot Sáng Ð?"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=H?-5
+Added Pin To Net: NetName=+5 Pin=IC1-7
+Added Pin To Net: NetName=+5 Pin=IC1-21
+Added Net: Name=+5
+Added Pin To Net: NetName=A1 Pin=IC1-27
+Added Pin To Net: NetName=A1 Pin=L1-1
+Added Pin To Net: NetName=A1 Pin=L1-5
+Added Net: Name=A1
+Added Pin To Net: NetName=A2 Pin=IC1-26
+Added Pin To Net: NetName=A2 Pin=L2-1
+Added Pin To Net: NetName=A2 Pin=L2-5
+Added Net: Name=A2
+Added Pin To Net: NetName=A3 Pin=IC1-24
+Added Pin To Net: NetName=A3 Pin=L3-1
+Added Pin To Net: NetName=A3 Pin=L3-5
+Added Net: Name=A3
+Added Pin To Net: NetName=A4 Pin=IC1-23
+Added Pin To Net: NetName=A4 Pin=L4-1
+Added Pin To Net: NetName=A4 Pin=L4-5
+Added Net: Name=A4
+Added Pin To Net: NetName=A Pin=IC1-8
+Added Pin To Net: NetName=A Pin=L1-7
+Added Pin To Net: NetName=A Pin=L2-7
+Added Pin To Net: NetName=A Pin=L3-3
+Added Pin To Net: NetName=A Pin=L4-7
+Added Net: Name=A
+Added Pin To Net: NetName=B Pin=IC1-9
+Added Pin To Net: NetName=B Pin=L1-6
+Added Pin To Net: NetName=B Pin=L2-6
+Added Pin To Net: NetName=B Pin=L3-2
+Added Pin To Net: NetName=B Pin=L4-6
+Added Net: Name=B
+Added Pin To Net: NetName=CLK Pin=H?-2
+Added Pin To Net: NetName=CLK Pin=IC1-3
+Added Net: Name=CLK
+Added Pin To Net: NetName=C Pin=IC1-10
+Added Pin To Net: NetName=C Pin=L1-4
+Added Pin To Net: NetName=C Pin=L2-4
+Added Pin To Net: NetName=C Pin=L3-9
+Added Pin To Net: NetName=C Pin=L4-4
+Added Net: Name=C
+Added Pin To Net: NetName=DIO Pin=H?-3
+Added Pin To Net: NetName=DIO Pin=IC1-2
+Added Net: Name=DIO
+Added Pin To Net: NetName=DP Pin=IC1-15
+Added Pin To Net: NetName=DP Pin=L1-8
+Added Pin To Net: NetName=DP Pin=L2-8
+Added Pin To Net: NetName=DP Pin=L3-8
+Added Pin To Net: NetName=DP Pin=L4-8
+Added Net: Name=DP
+Added Pin To Net: NetName=D Pin=IC1-11
+Added Pin To Net: NetName=D Pin=L1-3
+Added Pin To Net: NetName=D Pin=L2-3
+Added Pin To Net: NetName=D Pin=L3-7
+Added Pin To Net: NetName=D Pin=L4-3
+Added Net: Name=D
+Added Pin To Net: NetName=E Pin=IC1-12
+Added Pin To Net: NetName=E Pin=L1-2
+Added Pin To Net: NetName=E Pin=L2-2
+Added Pin To Net: NetName=E Pin=L3-6
+Added Pin To Net: NetName=E Pin=L4-2
+Added Net: Name=E
+Added Pin To Net: NetName=F Pin=IC1-13
+Added Pin To Net: NetName=F Pin=L1-9
+Added Pin To Net: NetName=F Pin=L2-9
+Added Pin To Net: NetName=F Pin=L3-4
+Added Pin To Net: NetName=F Pin=L4-9
+Added Net: Name=F
+Added Pin To Net: NetName=GND Pin=H?-4
+Added Pin To Net: NetName=GND Pin=IC1-22
+Added Pin To Net: NetName=GND Pin=IC1-28
+Added Net: Name=GND
+Added Pin To Net: NetName=G Pin=IC1-14
+Added Pin To Net: NetName=G Pin=L1-10
+Added Pin To Net: NetName=G Pin=L2-10
+Added Pin To Net: NetName=G Pin=L3-10
+Added Pin To Net: NetName=G Pin=L4-10
+Added Net: Name=G
+Added Pin To Net: NetName=STB Pin=H?-1
+Added Pin To Net: NetName=STB Pin=IC1-4
+Added Net: Name=STB
+Added Class: Name=DongHo
